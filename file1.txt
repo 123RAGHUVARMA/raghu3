@@ -1,0 +1,4 @@
+git -Raghu varma is good boy 
+he is studying velagapudi ramakrishna siddartha engineering college
+pwd -oresenting working directory
+mkdir - to cretae
