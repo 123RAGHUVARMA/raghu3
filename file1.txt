@@ -1,4 +1,6 @@
 git -Raghu varma is good boy 
-he is studying velagapudi ramakrishna siddartha engineering college
+he is  in velagapudi ramakrishna siddartha engineering college
 pwd -oresenting working directory
 mkdir - to cretae
+add a new line 
+pull is to pull data from one repoistry to other
